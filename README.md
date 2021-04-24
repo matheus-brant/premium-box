@@ -10,7 +10,7 @@ A missão do PremiumBox é ofertar pacotes de conteúdos específicos de diversa
 
 Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos uma oportunidade de mercado para inovação nos modelos de negócio que exigem a figitalização de novos empreendimentos. Atentos a essas necessidades desenvolvemos o PremiumBox, o aplicaitvo que empoderará o produtor de conteúdo ao possibilitar que oferte um pacote de serviços e/ou produtos administrando autonomamente seus lucros.
 
-# Cenário
+## Cenário
 
 ** Todos os usuários tem o mesmo nível de acesso às funcionalidades, porém existem possibilidades diferentes: 
 
