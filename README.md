@@ -12,16 +12,10 @@ Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos um
 
 ## Cenário
 
-** Todos os usuários tem o mesmo nível de acesso às funcionalidades, porém existem possibilidades diferentes: 
+**Todos os usuários tem o mesmo nível de acesso às funcionalidades, porém existem possibilidades diferentes:**
 
 - para o usuário criador de conteúdo por assinatura será possível criar, ver, editar e deletar pacotes de conteúdos (que podem ou não conter pacotes de produtos físicos especificados no anúncio); ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema. 
 - Para o usuário consumidor será possível ver os pacotes de conteúdo por assinatura ofertados, ver os pacotes de conteúdo por assinatura adquiridos; ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema.
-
-## Ambiente
-
-- Remoto
-- Google Meet para reuniões diárias e semanais
-- Metodolgia XGH (eXtreme Go Horse)
 
 ## Grupos
 
@@ -39,7 +33,7 @@ Karol é uma mulher muito comunicativa, além de sincera e objetiva, o que a aju
 
 Ela acredita que a prefeitura poderia desenvolver mais soluções voltadas para acessibilidade dela, pois considera despadronização das calçadas e a falta de rampas uma barreira para o exercício da sua liberdade de ir e vir.
 
-<img src="INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/Untitled.png" width="200">
+<img src="https://i.imgur.com/xT3w6K1.png" width="200">
 
 > Joana Macaral, 57
 
@@ -62,12 +56,20 @@ Por esse motivo acredita que aqueles não dão apoio as decisões para aumentar 
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+## Comunicação
+
+- Remota (Via Whatsapp e Discord).
+- Google Meet para reuniões diárias e semanais.
+
 # Validação
 
 A validação do projeto foi feita por meio de formulários e entrevistas com usuários e stakeholders.
 Para construção do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSekceFHq3mB1K4rSEMhu8Qlz8AtzQML_QM4FtX5Kz3Z1JDFMg/viewform) de especificação do projeto utilizamos a [Matriz de Dúvida, Certeza e Suposição](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655), a qual utiliza-se de técnicas de inicialização de projeto para a construção de hipóteses e validação de ideias. Como resultado obtivemos as necessidades iniciais do projeto, ideias, atores, funcionalidades.
 
 Para as entrevistas utilizamos técnicas do [Design Etnográfico](https://uxdesign.blog.br/a-etnografia-e-o-design-da-experi%C3%AAncia-do-usu%C3%A1rio-769202050ced), adaptadas por causa do contexto da pandemia do corona vírus, que promovem uma imersão em uma determinada realidade a ser transformada, buscando-se uma ampliação do conhecimento e identificação de oportunidades de inovação.
+
+
+- Metodolgia XGH (eXtreme Go Horse). 🐎🤠
 
 # Prototipagem
 
