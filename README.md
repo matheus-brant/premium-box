@@ -1,12 +1,12 @@
 # PremiumBox
 Projeto ES 2020.1
 
-## Descrição do Projeto
+## Descrição
 
 Esta API suporta o aplicativo chamado PremiumBox.
 A missão do PremiumBox é ofertar pacotes de conteúdos específicos de diversas áreas do conhecimento. 
 
-## Justificativa do Projeto
+## Oportunidade
 
 Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos uma oportunidade de mercado para inovação nos modelos de negócio que exigem a figitalização de novos empreendimentos. Atentos a essas necessidades desenvolvemos o PremiumBox, o aplicaitvo que empoderará o produtor de conteúdo ao possibilitar que oferte um pacote de serviços e/ou produtos administrando autonomamente seus lucros.
 
@@ -17,23 +17,20 @@ Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos um
 - para o usuário criador de conteúdo por assinatura será possível criar, ver, editar e deletar pacotes de conteúdos (que podem ou não conter pacotes de produtos físicos especificados no anúncio); ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema. 
 - Para o usuário consumidor será possível ver os pacotes de conteúdo por assinatura ofertados, ver os pacotes de conteúdo por assinatura adquiridos; ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema.
 
-## Grupos
+## Público-Alvo
 
 - Pessoas que desejam figitalizar seus serviços e/ou produtos de quaisquer áreas do conhecimento.
 
-# Personas
+## Personas
+
+<img src="https://i.imgur.com/y4rDbbG.png" width="200">
+
+### Camila Cassiano, 23
+
+**Camila** é uma jovem de 23 anos recém-formada em Design. Ela deseja seguir carreira como digital influencer do mercado de moda e beleza, focando em produtos de maquiagem para pele negra. 
+Além de oferecer um curso online para digitais influencers, Camila deseja vender um pacote de assinatura (press kit) para divulgar seu novo curso com produtos de maquiagem (que é voltado para esse público). Contudo ela gostaria de oferecer os dois serviços numa mesma plataforma na modalidade de serviços por assinatura.
 
 <img src="" width="200">
-
-> Karol Pessoa, 34
-
-**Karol** é autônoma tem 34 anos e mora em Paulista, é casada e não possui filhos. Ela possui deficiência física e precisa de cadeiras de rodas para locomoção.
-
-Karol é uma mulher muito comunicativa, além de sincera e objetiva, o que a ajuda nas suas lutas diárias por melhorias para as pessoas que possuem deficiência física.
-
-Ela acredita que a prefeitura poderia desenvolver mais soluções voltadas para acessibilidade dela, pois considera despadronização das calçadas e a falta de rampas uma barreira para o exercício da sua liberdade de ir e vir.
-
-<img src="https://i.imgur.com/xT3w6K1.png" width="200">
 
 > Joana Macaral, 57
 
