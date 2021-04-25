@@ -130,7 +130,7 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 - Acionar o botão "Salvar".
 
 **Fluxos Secundários:**
-- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela inicial.
 - **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
 
 ### Telas de Edição de Usuário e Pacotes
@@ -141,34 +141,97 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 
 ### UC004 - Editar usuário cadastrado
 **Pré-Condições:**
-- Não possuir usuário válido cadastrado no sistema com o e-mail utilizado.
+- Possuir usuário válido cadastrado no sistema.
+
 
 **Pós-Condições:**
-- Criação de um novo usuário do PremiumBox.
+- Edição de um usuário cadastrado no PremiumBox.
 
 **Fluxo Principal:**
-- Acessar a tela de criação usuários clicando na opção "Cadastre-se" da tela de login;
-- Preencher no mínimo os campos obrigatórios;
+- Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
+- Caso altere, preencher no mínimo os campos obrigatórios;
 - Acionar o botão "Salvar".
 
 **Fluxos Secundários:**
-- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela inicial.
 - **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
 
 ### UC005 - Editar Pacote Cadastrado
 **Pré-Condições:**
 - Possuir usuário válido cadastrado no sistema.
-- Não possuir pacote válido cadastrado no sistema com o nome utilizado.
+- Possuir pacote válido cadastrado no sistema.
 
 **Pós-Condições:**
-- Criação de um novo pacote do PremiumBox.
+- Edição de um pacote cadastrado no PremiumBox.
 
 **Fluxo Principal:**
 - Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
-- Acionar o botão "Criar Pacote";
-- Preencher no mínimo os campos obrigatórios;
+- Acionar o botão "Editar Pacote";
+- Caso altere, preencher no mínimo os campos obrigatórios;
 - Acionar o botão "Salvar".
 
 **Fluxos Secundários:**
-- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela inicial.
 - **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
+
+
+### UC006 - Deletar usuário cadastrado
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
+
+
+**Pós-Condições:**
+- Exclusão de um usuário cadastrado no PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
+- Acionar o botão "Deletar Conta";
+- Ao aparecer a mensagem "Tem certeza que deseja deletar sua conta do PremiumBox? Essa operação nãp é reversível." acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela inicial.
+
+### UC007 - Deletar Pacote Cadastrado
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
+- Possuir pacote válido cadastrado no sistema.
+
+**Pós-Condições:**
+- Edição de um pacote cadastrado no PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
+- Acionar o botão "Deletar Pacote";
+- Ao aparecer a mensagem "Tem certeza que deseja deletar seu pacote do PremiumBox? Essa operação nãp é reversível." acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+
+### Tela de Pesquisa
+
+<img src="https://i.imgur.com/hSW4y7e.png" width="1000">
+
+### Tela de Visualização do Perfil do Usuário
+
+<img src="https://i.imgur.com/CuxLAWy.png" width="1000">
+
+### Tela de Visualização do Pacote
+
+<img src="https://i.imgur.com/ve4HOIQ.png" width="1000">
+
+### UC008 - Pesquisar usuário ou pacote cadastrados
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
+- Possuir pacote válido cadastrado no sistema.
+
+**Pós-Condições:**
+- Visualização de um usuário ou pacote cadastrados no PremiumBox.
+
+**Fluxo Principal:**
+- Acionar a barra de pesquisa no centro superior da tela inicial e digitar o nome do usuário ou pacote desejados;
+- Ao visualizar o usuário ou pacote na barra de pesquisa, clicar sobre a opção desejada.
+
+**Fluxos Secundários:**
+N/A
+
+
