@@ -75,11 +75,11 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 
 ### UC001 - Login
 - **Pré-Condições:**
--- Possuir usuário válido cadastrado no sistema.
+ - Possuir usuário válido cadastrado no sistema.
 - **Pós-Condições:**
--- Acesso à tela inicial do PremiumBox.
+ - Acesso à tela inicial do PremiumBox.
 
 - **Fluxo Principal:**
 1) O usuário acessa o [link]();
-2) Preenche os campos <login> e <senha>;
+2) Preenche os campos "Login" e "Senha";
 3) O sistema apresenta a tela inicial do PremiumBox.
