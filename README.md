@@ -8,7 +8,7 @@ A missão do PremiumBox é ofertar pacotes de conteúdos específicos de diversa
 
 ## Oportunidade
 
-Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos uma oportunidade de mercado para inovação nos modelos de negócio que exigem a figitalização de novos empreendimentos. Atentos a essas necessidades desenvolvemos o PremiumBox, o aplicaitvo que empoderará o produtor de conteúdo ao possibilitar que oferte um pacote de serviços e/ou produtos administrando autonomamente seus lucros.
+Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos uma oportunidade de mercado para inovação nos modelos de negócio que exigem a figitalização de novos empreendimentos. Atentos a essas necessidades desenvolvemos o PremiumBox, o aplicativo que empoderará o produtor de conteúdo ao possibilitar que oferte um pacote de serviços e/ou produtos administrando autonomamente seus lucros.
 
 ## Cenário
 
@@ -34,7 +34,7 @@ Além de oferecer um curso online para digitais influencers, Camila deseja vende
 
 ### Carlos Ferraz, 52
 
-**Carlos** tem 52 anos e se aposentou recentemente. Ele trabalhou na fabricação de móveis de alta qualidade durante 28 anos e por isso quer oferecer uma consultoria online aos alunos que comprarem seu curso de marcenaria que contém vídeos com dicas de decoração e informações sobre móveis de diferentes estilos e materiais. Tudo isso com um ebook de fotos das peças que Carlos produziu durante seus anos de trabalho e um ebook para acompanhar as aulas do curso. Carlos precisa de uma plataforma simples e de acesso fácil e intuitivo para gerir todos os produtos e serviços que ele deseja oferecer.
+**Carlos** tem 52 anos e se aposentou recentemente. Ele trabalhou na fabricação de móveis de alta qualidade durante 28 anos e por isso quer oferecer uma consultoria online aos alunos que comprarem seu curso de marcenaria que contém vídeos com aulas de confecção e informações sobre móveis de diferentes estilos e materiais. Tudo isso com um ebook de fotos das peças que Carlos produziu durante seus anos de trabalho e um ebook para acompanhar as aulas do curso. Carlos precisa de uma plataforma simples e de acesso fácil e intuitivo para gerir todos os produtos e serviços que ele deseja oferecer.
 
 ## Equipe
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -67,7 +67,7 @@ Para construção do formulário [📄](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Protótipo
 
-Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade definida como requisito. Segue abaixo a tela e os casos de uso correspondetes aos seus respectivos processos
+Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade definida como requisito. Segue abaixo a tela e os casos de uso correspondentes aos seus respectivos processos.
 
 ## Tela de Login
 
@@ -83,6 +83,7 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 **Fluxo Principal:**
 - Acessar o [link]();
 - Preencher os campos "Login" e "Senha";
+- Acionar o botão "Entrar";
 - O sistema apresenta a tela inicial do PremiumBox.
 
 **Fluxos Secundários:**
