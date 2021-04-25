@@ -74,12 +74,101 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 <img src="https://i.imgur.com/yHH1sZm.png" width="1000">
 
 ### UC001 - Login
-- **Pré-Condições:**
- - Possuir usuário válido cadastrado no sistema.
-- **Pós-Condições:**
- - Acesso à tela inicial do PremiumBox.
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
 
-- **Fluxo Principal:**
-1) O usuário acessa o [link]();
-2) Preenche os campos "Login" e "Senha";
-3) O sistema apresenta a tela inicial do PremiumBox.
+**Pós-Condições:**
+- Acesso à tela inicial do PremiumBox.
+
+**Fluxo Principal:**
+- Acessar o [link]();
+- Preencher os campos "Login" e "Senha";
+- O sistema apresenta a tela inicial do PremiumBox.
+
+**Fluxos Secundários:**
+- **FS0001:** O usuário pode cancelar a qualquer momento acionando o botão "Sair" na tela inicial do PremuimBox.
+- **FS0002:** Caso o usuário e a senha estejam incorretos ou o usuário não exista o sistema apresentará a seguinte mensagem: "Usuário ou senha incorretos, tente novamente."
+
+### Tela Inicial
+
+<img src="https://i.imgur.com/MGqdu0W.png" width="1000">
+
+### Telas de Cadastro de Usuário e Pacotes
+
+<img src="https://i.imgur.com/EO4gGXS.png" width="1000">
+
+<img src="https://i.imgur.com/o1vSIsO.png" width="1000">
+
+### UC002 - Criar usuário
+**Pré-Condições:**
+- Não possuir usuário válido cadastrado no sistema com o e-mail utilizado.
+
+**Pós-Condições:**
+- Criação de um novo usuário do PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de criação usuários clicando na opção "Cadastre-se" da tela de login;
+- Preencher no mínimo os campos obrigatórios;
+- Acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
+
+### UC003 - Criar pacote
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
+- Não possuir pacote válido cadastrado no sistema com o nome utilizado.
+
+**Pós-Condições:**
+- Criação de um novo pacote do PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
+- Acionar o botão "Criar Pacote";
+- Preencher no mínimo os campos obrigatórios;
+- Acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
+
+### Telas de Edição de Usuário e Pacotes
+
+<img src="https://i.imgur.com/iXCbeMV.png" width="1000">
+
+<img src="https://i.imgur.com/oxH8yoo.png" width="1000">
+
+### UC004 - Editar usuário cadastrado
+**Pré-Condições:**
+- Não possuir usuário válido cadastrado no sistema com o e-mail utilizado.
+
+**Pós-Condições:**
+- Criação de um novo usuário do PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de criação usuários clicando na opção "Cadastre-se" da tela de login;
+- Preencher no mínimo os campos obrigatórios;
+- Acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
+
+### UC005 - Editar Pacote Cadastrado
+**Pré-Condições:**
+- Possuir usuário válido cadastrado no sistema.
+- Não possuir pacote válido cadastrado no sistema com o nome utilizado.
+
+**Pós-Condições:**
+- Criação de um novo pacote do PremiumBox.
+
+**Fluxo Principal:**
+- Acessar a tela de edição do usuário clicando no ícone de perfil do canto superior esquerdo da tela inicial;
+- Acionar o botão "Criar Pacote";
+- Preencher no mínimo os campos obrigatórios;
+- Acionar o botão "Salvar".
+
+**Fluxos Secundários:**
+- **FS0003:** O usuário pode cancelar a operação a qualquer momento acionando o botão "Cancelar" para retornar tela de login.
+- **FS0004:** Caso os campos obrigatórios não sejam preenchidos, o sistema apresentará a mensagem “O campo <nome do campo> é obrigatório! Por favor informe o <nome do campo> antes de salvar.”.
