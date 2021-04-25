@@ -69,38 +69,17 @@ Para construção do formulário [📄](https://docs.google.com/forms/d/e/1FAIpQ
 
 Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade definida como requisito. Segue abaixo a tela e os casos de uso correspondetes aos seus respectivos processos
 
-### Telas
+## Tela de Login
 
 <img src="https://i.imgur.com/yHH1sZm.png" width="1000">
 
-> Login
+### UC001 - Login
+- **Pré-Condições:**
+-- Possuir usuário válido cadastrado no sistema.
+- **Pós-Condições:**
+-- Acesso à tela inicial do PremiumBox.
 
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/iPhone_SE_-_2.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/iPhone_SE_-_2.png)
-
-> Inicio
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos.png)
-
-> Gráfico de mapa
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_1.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_1.png)
-
-> Formulário de cadastro (input)
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos_(3).png](<INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos_(3).png>)
-
-> Gráfico de teia
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_5.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_5.png)
-
-> Formulário de cadastro (select)
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos_(1).png](<INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/graficos_(1).png>)
-
-> Gráfico barra
-
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_4.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/formulario_4.png)
-
-> Formulário de cadastro (vários campos)
-
-teste
+- **Fluxo Principal:**
+1) O usuário acessa o [link]();
+2) Preenche os campos <login> e <senha>;
+3) O sistema apresenta a tela inicial do PremiumBox.
