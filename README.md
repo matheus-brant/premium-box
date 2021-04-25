@@ -71,7 +71,7 @@ Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade
 
 ### Telas
 
-<img src="https://i.imgur.com/yHH1sZm.png" width="200">
+<img src="https://i.imgur.com/yHH1sZm.png" width="1000">
 
 > Login
 
