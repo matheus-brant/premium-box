@@ -23,7 +23,7 @@ Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos um
 
 ## Personas
 
-<img src="https://i.imgur.com/y4rDbbG.png" width="200">
+<img src="https://i.imgur.com/45zacnV.png" width="200">
 
 ### Camila Cassiano, 23
 
