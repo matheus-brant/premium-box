@@ -55,7 +55,7 @@ Além de oferecer um curso online para digitais influencers, Camila deseja vende
 - Remota (Via Whatsapp e Discord).
 - Google Meet para reuniões diárias e semanais.
 
-# Homologação
+## Homologação
 
 A homologação do projeto foi feita por meio de reuniões entre a equipe para validar a especificação de requisitos e formulários de consulta para definir o público-alvo entre possíveis usuários.
 Para construção do formulário [📄](https://docs.google.com/forms/d/e/1FAIpQLSfipBrult6CVg1pS6MutPBrWdOMs5BQl69xLn9KB5aqwcXk4A/viewform) de especificação do projeto utilizamos perguntas relacionadas à usabilidade, uma vez que será o indicador de qualidade (nível de satisfação do usuário) utilizado no teste de usabilidade do produto final.
@@ -65,13 +65,13 @@ Para construção do formulário [📄](https://docs.google.com/forms/d/e/1FAIpQ
 - Metodolgia XGH (eXtreme Go Horse). 🐎🤠
 (Uma brincadeira pra descontrair professor! 😅)
 
-# Protótipo
+## Protótipo
 
 Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade definida como requisito. Segue abaixo a tela e os casos de uso correspondetes aos seus respectivos processos
 
 ### Telas
 
-![INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/login.png](INCLUCAD%20fb0253337cff4831bbd8ec37af1dee58/login.png)
+<img src="https://i.imgur.com/yHH1sZm.png" width="200">
 
 > Login
 
