@@ -14,12 +14,12 @@ Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos um
 
 **Todos os usuários tem o mesmo nível de acesso às funcionalidades, porém existem possibilidades diferentes:**
 
-- para o usuário criador de conteúdo por assinatura será possível criar, ver, editar e deletar pacotes de conteúdos (que podem ou não conter pacotes de produtos físicos especificados no anúncio); ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema. 
+- Para o usuário criador de conteúdo por assinatura será possível criar, ver, editar e deletar pacotes de conteúdos (que podem ou não conter pacotes de produtos físicos especificados no anúncio); ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema. 
 - Para o usuário consumidor será possível ver os pacotes de conteúdo por assinatura ofertados, ver os pacotes de conteúdo por assinatura adquiridos; ver, editar e deletar seu perfil e ver perfil dos demais usuários do sistema.
 
 ## Público-Alvo
 
-- Pessoas que desejam figitalizar seus serviços e/ou produtos de quaisquer áreas do conhecimento.
+- Pessoas que desejam figitalizar seus serviços e/ou produtos de quaisquer áreas.
 
 ## Personas
 
@@ -30,16 +30,13 @@ Dadas as atuais circunstâncias globais (pandemia do covid-19), identificamos um
 **Camila** é uma jovem de 23 anos recém-formada em Design. Ela deseja seguir carreira como digital influencer do mercado de moda e beleza, focando em produtos de maquiagem para pele negra. 
 Além de oferecer um curso online para digitais influencers, Camila deseja vender um pacote de assinatura (press kit) para divulgar seu novo curso com produtos de maquiagem (que é voltado para esse público). Contudo ela gostaria de oferecer os dois serviços numa mesma plataforma na modalidade de serviços por assinatura.
 
-<img src="" width="200">
+<img src="https://i.imgur.com/gr42xxT.png" width="200">
 
-> Joana Macaral, 57
+### Carlos Ferraz, 52
 
-**Joana** é gestora da cidade de Paulista. Ela acredita que a cidade precisa melhorar na assistência às pessoas com deficiência.
+**Carlos** tem 52 anos e se aposentou recentemente. Ele trabalhou na fabricação de móveis de alta qualidade durante 28 anos e por isso quer oferecer uma consultoria online aos alunos que comprarem seu curso de marcenaria que contém vídeos com dicas de decoração e informações sobre móveis de diferentes estilos e materiais. Tudo isso com um ebook de fotos das peças que Carlos produziu durante seus anos de trabalho e um ebook para acompanhar as aulas do curso. Carlos precisa de uma plataforma simples e de acesso fácil e intuitivo para gerir todos os produtos e serviços que ele deseja oferecer.
 
-Joana considera que os dados os quais tem acesso atualmente são desconexos, pois verificou haver uma discrepância entre duas bases de dados.
-
-Por esse motivo acredita que aqueles não dão apoio as decisões para aumentar o nível de acessibilidade do município que ela administra e julga esse fato como prejudicial ao desenvolvimento de emendas relacionadas as pautas de pessoas com deficiências.
-
+## Equipe
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
@@ -58,23 +55,19 @@ Por esse motivo acredita que aqueles não dão apoio as decisões para aumentar 
 - Remota (Via Whatsapp e Discord).
 - Google Meet para reuniões diárias e semanais.
 
-# Validação
+# Homologação
 
-A validação do projeto foi feita por meio de formulários e entrevistas com usuários e stakeholders.
-Para construção do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSekceFHq3mB1K4rSEMhu8Qlz8AtzQML_QM4FtX5Kz3Z1JDFMg/viewform) de especificação do projeto utilizamos a [Matriz de Dúvida, Certeza e Suposição](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655), a qual utiliza-se de técnicas de inicialização de projeto para a construção de hipóteses e validação de ideias. Como resultado obtivemos as necessidades iniciais do projeto, ideias, atores, funcionalidades.
+A homologação do projeto foi feita por meio de reuniões entre a equipe para validar a especificação de requisitos e formulários de consulta para definir o público-alvo entre possíveis usuários.
+Para construção do formulário [📄](https://docs.google.com/forms/d/e/1FAIpQLSfipBrult6CVg1pS6MutPBrWdOMs5BQl69xLn9KB5aqwcXk4A/viewform) de especificação do projeto utilizamos perguntas relacionadas à usabilidade, uma vez que será o indicador de qualidade (nível de satisfação do usuário) utilizado no teste de usabilidade do produto final.
 
-Para as entrevistas utilizamos técnicas do [Design Etnográfico](https://uxdesign.blog.br/a-etnografia-e-o-design-da-experi%C3%AAncia-do-usu%C3%A1rio-769202050ced), adaptadas por causa do contexto da pandemia do corona vírus, que promovem uma imersão em uma determinada realidade a ser transformada, buscando-se uma ampliação do conhecimento e identificação de oportunidades de inovação.
-
+## Metodologia
 
 - Metodolgia XGH (eXtreme Go Horse). 🐎🤠
+(Uma brincadeira pra descontrair professor! 😅)
 
-# Prototipagem
+# Protótipo
 
-A prototipação é uma fase importante do processo de desenvolvimento de uma aplicação pois nela tem-se o primeiro contato com o que pode vir a ser a solução. Ela também abre espaço para discussões sobre as funcionalidades, aparência, experiência.
-
-Durante o desenvolvimento da UI do projeto INCLUCAD, o nosso foco foi garantir que as interfaces estavam de acordo com as boas práticas de acessibilidade definidas pela Apple por meio do [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/).
-
-Após analisar as respostas do formulário de expectativas do stakeholders para com o projeto, chegamos as telas do INCLUCAD que foram validadas na reunião seguinte. Nessa reunião os feedbacks foram positivos e nenhuma alteração foi solicitada.
+Para auxiliar na prototipação elaboramos casos de uso para cada funcionalidade definida como requisito. Segue abaixo a tela e os casos de uso correspondetes aos seus respectivos processos
 
 ### Telas
 
